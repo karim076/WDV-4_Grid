@@ -19,3 +19,6 @@ h2{
 .container{
     margin: 0 auto;
 }
+.animal{
+    grid-template-columns: 50% 50%;
+}
