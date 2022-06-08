@@ -3,65 +3,65 @@
     margin: 0;
     padding: 0;
 }
-    
-    
-    
-    body{
+
+
+
+body{
     font-family: Raleway;
-    }
-    
-    
-    
-    h2{
+}
+
+
+
+h2{
     font-weight: normal;
-    }
-    
-    
-    
-    .animal-card img{
+}
+
+
+
+.animal-card img{
     max-width: 230px;
-    }
-    
-    
-    
-    .container{
+}
+
+
+
+.container{
     max-width: 960px;
     margin: 0 auto;
     margin-top: 30px;
-    }
-    
-    
-    
-    h1{
+}
+
+
+
+h1{
     font-weight: bold;
     margin-bottom: 30px;
-    }
-    
-    
-    
-    .animals{
+}
+
+
+
+.animals{
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 30px;
-    }
-    
-    
-    
-    .animal-card{
+}
+
+
+
+.animal-card{
     display: flex;
     justify-content: space-between;
     align-items: center;
     border: 1px solid black;
-    }
-    
-    
-    
-    .animal-card div{
+}
+
+
+
+.animal-card div{
     padding: 10px;
-    }
-    
-    
-    
-    .large{
+}
+
+
+
+.large{
     grid-row: span 2;
-    }
+}
